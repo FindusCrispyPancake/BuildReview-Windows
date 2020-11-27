@@ -44,8 +44,8 @@
 		<Requirement ID="7" Caption="Windows 7" DomainRole="0,1" />
 		<Requirement ID="8" Caption="Windows 8.1" DomainRole="0,1" />
 		<Requirement ID="9" Caption="Windows 10" DomainRole="0,1" />
-		<Requirement ID="10" Caption="Windows Server 2012" DomainRole="2,3" />
-		<Requirement ID="11" Caption="Windows Server 2012" DomainRole="4,5" />
+		<Requirement ID="10" Caption="Windows Server 2019" DomainRole="2,3" />
+		<Requirement ID="11" Caption="Windows Server 2019" DomainRole="4,5" />
 	</Requirements>
 	<Collection Name="UserRightsAssignment">
 		<!-- Descriptions at https://technet.microsoft.com/en-us/library/dd277311.aspx -->
